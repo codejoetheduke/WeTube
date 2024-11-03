@@ -6,7 +6,7 @@ import { fetchFromApi } from '../utils/fetchFromApi';
 
 const Feed = () => {
 
-    const [selectedCategory, setSelectedCategory] = useState("New");
+    const [selectedCategory, setSelectedCategory] = useState("Home");
     const [videos, setVideos] = useState([])
 
     useEffect(() => {
@@ -17,8 +17,7 @@ const Feed = () => {
         <Stack sx={{ flexDirection: { sx: "column", md: "row" } }}>
             <Box sx={{
                 height: { sx: "auto", md: "92vh" },
-                borderRight: "1px solid #3d3d3d",
-                p: { sx: 0, md: 2 }
+                p: { sx: 0, md: 2 },
             }}>
                 <SideBar
                     selectedCategory={selectedCategory}

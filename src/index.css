@@ -48,7 +48,7 @@ a {
   border: none;
   padding: 7px 15px;
   margin: 10px 0px;
-  border-radius: 50px;
+  border-radius: 10px;
   transition: all 0.3s ease;
 }
 .category-btn:hover {
