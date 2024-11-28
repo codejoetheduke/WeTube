@@ -72,6 +72,6 @@ Adding subscription and notification features.
 Support for live streaming.
 
 ## 📞 Contact
-For questions or suggestions, please feel free to reach out at dukekongo16@example.com.
+For questions or suggestions, please feel free to reach out at dukekongo16@gmail.com.
 
 WeTube: Your go-to platform for sharing and discovering videos.
